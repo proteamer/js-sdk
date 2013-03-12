@@ -22,10 +22,16 @@
       "url": "https://github.com/EchoAppsTeam/js-sdk/blob/master/LICENSE-MIT"
     }
   ],
+  "scripts": {
+    "test": "grunt travis --verbose"
+  },
   "dependencies": {
     "grunt-contrib": "~0.1.7",
     "ftp": "~0.1.5",
     "recess": "1.0.3"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.14"
   },
   "keywords": []
 }

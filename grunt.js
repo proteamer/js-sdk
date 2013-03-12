@@ -283,6 +283,9 @@ module.exports = function(grunt) {
 			codegen: {
 				ascii_only: true
 			}
+		},
+		qunit: {
+		      files: ['tests/*.html']
 		}
 	};
 
@@ -295,6 +298,9 @@ module.exports = function(grunt) {
 	grunt.loadTasks("tools/grunt/tasks");
 
 	grunt.registerTask("default", "check:versions clean:all build:sdk");
+
+	// Travis CI task.
+	grunt.registerTask('travis', 'qunit');
 
 	grunt.registerTask("build", "Go through all stages of building some target/system", function(target, stage) {
 		if (!stage) {
