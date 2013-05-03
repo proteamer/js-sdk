@@ -57,7 +57,7 @@ var platforms = [{
 	tags: ["examples"],
 	name: "Echo testrs (ie8)",
 	build: "Testing enviroment"
-}i/*, {
+}/*, {
 	browserName: 'android',
 	version: '4',
 	platform: 'Linux',
