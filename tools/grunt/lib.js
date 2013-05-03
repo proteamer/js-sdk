@@ -58,6 +58,8 @@ exports.init = function(grunt) {
 			} else {
 				grunt.log.ok();
 			}
+			// We need to check jsduck only for "docs" task
+			/*
 			self.exec("jsduck --version | awk '{ print $2; }'", function(version) {
 				version = _.trim(version);
 				if (!version) {
@@ -70,7 +72,8 @@ exports.init = function(grunt) {
 					grunt.log.ok();
 				}
 				done(!failed);
-			});
+			});*/
+			done(!failed);
 		});
 	};
 

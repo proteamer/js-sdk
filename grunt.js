@@ -173,8 +173,7 @@ module.exports = function(grunt) {
 		},
 		check: {
 			versions: {
-				// TODO: this library isn't necessary for building dev scripts  
-				// jsduck: "4.6.1",
+				jsduck: "4.6.1",
 				grunt: "v0.3.17"
 			}
 		},
