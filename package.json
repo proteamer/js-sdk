@@ -23,7 +23,7 @@
     }
   ],
   "scripts": {
-    "test": "node test.js"
+    "test": "bunyip -f web/tests/index.html -p 9000 -b ios"
   },
   "dependencies": {
     "grunt-contrib": "~0.1.7",
