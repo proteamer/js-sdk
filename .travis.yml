@@ -12,6 +12,18 @@ before_script:
 env:
   global:
   browserstack:
-  - username: "UTaf4uMQvy3TBVJNsQnIyj9I/EoYfGOwIzF07renIh2XJRR/aCcd5wjjkwlA\ngxYq40RymQkKtFLnXEfq1lPIVAm48X8dEj4cPcXK6HnuEBpa9bfcrlV58C5e\njnTBQ8/lTJ7pQ5AqVf8EjW1KPsAqPujZHS2dUCFe1w4cA9+FEr0="
-  - password: "FQm9wUyP7aiyR21Ub8bzKdEL/fD/uVD2CPmcApj0EEudpUt9fQvyOJPwnKC8\nggT1m5e5AVDvaxDMzTkpOOL5a4vsqCQSUT4+WidjJSd/XZTqmt2LBjdaJJe9\nf+HPKV4OUgSsP+AUPctvHV1pBesjS551R0eWVU11mf6iTvni1kc="
-  - token: "H6UdBv1TkXxWRLRRQN/OqSyhDYwb61ay25IibAPHi18U2YRPYKfHSkb+/bzz\njtvziQuEdNDCTKKx4zWLdseEdBh7NpmUUTPzMfQSkG7NtF18vRx111vnwp+Q\n6wgSTWRmjEn7s3NzHCi91CRzrkvmv4nHDkNok+IMTdmpEgcr83s="
+  - username: ! 'UTaf4uMQvy3TBVJNsQnIyj9I/EoYfGOwIzF07renIh2XJRR/aCcd5wjjkwlA
+
+      gxYq40RymQkKtFLnXEfq1lPIVAm48X8dEj4cPcXK6HnuEBpa9bfcrlV58C5e
+
+      jnTBQ8/lTJ7pQ5AqVf8EjW1KPsAqPujZHS2dUCFe1w4cA9+FEr0='
+  - password: ! 'FQm9wUyP7aiyR21Ub8bzKdEL/fD/uVD2CPmcApj0EEudpUt9fQvyOJPwnKC8
+
+      ggT1m5e5AVDvaxDMzTkpOOL5a4vsqCQSUT4+WidjJSd/XZTqmt2LBjdaJJe9
+
+      f+HPKV4OUgSsP+AUPctvHV1pBesjS551R0eWVU11mf6iTvni1kc='
+  - token: ! 'H6UdBv1TkXxWRLRRQN/OqSyhDYwb61ay25IibAPHi18U2YRPYKfHSkb+/bzz
+
+      jtvziQuEdNDCTKKx4zWLdseEdBh7NpmUUTPzMfQSkG7NtF18vRx111vnwp+Q
+
+      6wgSTWRmjEn7s3NzHCi91CRzrkvmv4nHDkNok+IMTdmpEgcr83s='
