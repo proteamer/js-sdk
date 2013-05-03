@@ -23,12 +23,16 @@
     }
   ],
   "scripts": {
-    "test": "grunt travis --verbose"
+    "test": "node test.js"
   },
   "dependencies": {
     "grunt-contrib": "~0.1.7",
     "ftp": "~0.1.5",
-    "recess": "1.0.3"
+    "recess": "~1.0.3",
+    "wd": "~0.0.32",
+    "q": "*",
+    "request": "*",
+    "assert": "*"
   },
   "devDependencies": {
     "grunt": "~0.3.14"
