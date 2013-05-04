@@ -1,4 +1,3 @@
-console.log("!!!", process.env);
 var config = {
     "browserstack": {
         "username": process.env.bs_username,
