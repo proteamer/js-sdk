@@ -11,23 +11,18 @@ before_script:
 - wget http://www.browserstack.com/BrowserStackTunnel.jar
 env:
   global:
-  - secure: ! 'clpRqAhxF9zcqpTWCQ9lgk2pnWbsyz/C6w0r7ah6jPbsLNntQZegoHPPiIa9
+  - secure: ! 'NCFfIq9X3va6CaFQZhNLSqdej+hKsLcWp6JEwuHZBM6rC5BLYrUYlULs4DYH
 
-      zTvrWjoKh1RRhribi2Q0pqNH0lMXo/Wyu7KuCNrpLXcneD/9xVrpVEOSJbRt
+      Qo4CRb+SO3vQL4c8zAzGRXHaCGEct3hfCv18w+CGWKoedEHVoIhl77tN0i9z
 
-      qpDifY+v9poiCX9zBR5NIIXfFMwk1J48NZcCULNH8AqviNvEZH8='
-  - secure: ! 'YZ191WMYQhNzGxmLLxYXMezyrIa624tC2PNqhcAf3vJ847K/7UZo6MgHVdV2
+      YKs2URMvljjhA/0emGY7CbHm6WQbjMGkCIbWT4kMaHfohWWxyto='
+  - secure: ! 'R24MsfVqzPlZW2E3FFwMyDxb6H7Dd1MmifH5580B72oXVDezltapSf4KDC9F
 
-      dfq2+T+WtKzdP+SkMHfv8oFBgNQEKbq+Uv773ET+Pl6wFaSFho1PRUEKo0qM
+      4/7xNgiYlzOEqwaoVlor3+jBNrsWjjXcSUla17/uCwEluFhzTa83QitWOqcf
 
-      7v6sWPnOKb95m8lvqRRCcAoePeRZ48D+XJ/umA1pN/YEUKIS20s='
-  - secure: ! 'b3l7XN1pAUVosgchiJqsRXL9UKdEU4XdyRzhFNmc+Dx8fOxTgelJSNFasl5B
+      EiXXZdSXP5somVoFmuZDcvaHxIxAFM6sCCDD4+kEPxKiIOqr2Pk='
+  - secure: ! 'MMgBEd+T7vycG3fHFWLD0nOSYT0DEWIaSIbBsF19/G6iirxyJkbdl3ZHYSbH
 
-      +w5OnwOKmqwYn0YPM3QcCeeONLLHU+nhwOgiy+Ecjync6ahypw7jUr3BoTlX
+      u2sfyXrQWU4D/feNVBmxcTxkbKKkf/rqFOlbyk+rFWVEula3mBLA17x+eqTn
 
-      bH5mkn0XyEDSQ78c7VMSIOC/XgLLz7tqm/rIojABj097BoPXJow='
-  - secure: ! 'Zj4fZlvEtmwGDdaKL8Y9rz0HTdGLPYdIQf0jbQ7/vna7xL4GkZUM4OdkeSgB
-
-      tABH8ltjcACeLeKQynhcqZBZYkmzXj0JOhDdAxIRSSpNb3CCh42sjWG3jCyZ
-
-      3T5exmP4f/Oz6EABS/QPAI1htYdHWP4irKk8z4vDyUL7zXSwiDA='
+      /fb9l/ETiiofS03rmMWVH90BP4TO3o9BD70TmoQ7I9EzHGxrT6s='
