@@ -11,20 +11,17 @@ before_script:
 - wget http://www.browserstack.com/BrowserStackTunnel.jar
 env:
   global:
-bs_username:
-- secure: ! 'Vqi1bRenVMNLEhgYQsiRW0NFCOFHkI7CvUjhLYW2muzh9xa0+djflpewsx2R
+  - bs_username: ! 'Vqi1bRenVMNLEhgYQsiRW0NFCOFHkI7CvUjhLYW2muzh9xa0+djflpewsx2R
 
     Iivg7MQRoX32rxvwH15zssVtxd55dr9HK2o4T7mwz49cdPMwamI2KbmOK6df
 
     bzrJWf9DtJW+4uqRAquKREBB8GfrG54nRxToV2fu87Q/Mh15Oyw='
-bs_password:
-- secure: ! 'WMaSABs7qMFL3M33iavQAL5M93Nb4DYGBVlQnmjIbSQZDKJCphIVcjJCSHF5
+  - bs_password: ! 'WMaSABs7qMFL3M33iavQAL5M93Nb4DYGBVlQnmjIbSQZDKJCphIVcjJCSHF5
 
     3vSn80GnFmN1CcRBkt8cbU0Me9SfKdcTfp2Tnm42U2Pub6yM5H4k4cBP8zvA
 
     z8A6lsxtvJE8OJWjnzmhevWgqAaD2Tp7f5d6uplj1OyGkbBY5kM='
-bs_token:
-- secure: ! 'UIgYstfnequCm077W1q5JWZ0iyrHW1Rz6TnBhsm7ZJX0D/NRs997/ZthVjUE
+  - bs_token: ! 'UIgYstfnequCm077W1q5JWZ0iyrHW1Rz6TnBhsm7ZJX0D/NRs997/ZthVjUE
 
     corIX5fdJTbfAompd/hrojZKQQCLUXg+eUMyMb98aTDippAkbTO5rzGhKpZm
 
