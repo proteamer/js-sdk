@@ -23,7 +23,7 @@
     }
   ],
   "scripts": {
-    "test": "java -jar BrowserStackTunnel.jar 7DyuxWcLPy2ZHkXv3z9n localhost,9000,0"
+    "test": "bunyip -f web/tests/index.html -p 9000 -b ios"
   },
   "dependencies": {
     "grunt-contrib": "~0.1.7",
